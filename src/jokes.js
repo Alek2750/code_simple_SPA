@@ -26,6 +26,8 @@ const initialData = [
     "A day without sunshine is like, night.",
     "At what age is it appropriate to tell my dog that he's adopted?",
     "I intend to live forever, or die trying",
+    "It's over, Anakin! I have the high ground!",
+    "You can’t say that Hitler was bad through and through. He did kill Hitler, after all.",
   ]
 
 const jokes = new Jokes(initialData);
